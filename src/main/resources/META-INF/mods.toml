@@ -7,7 +7,8 @@ modId="carriagefix"
 version="1.0.0"
 displayName="Carriage Render Fix"
 authors="DeepSeek & Chase_meng"
-description="缓存列车车厢渲染列表，修复 Create 0.5.1 车门大范围开闭时的掉帧问题"
+description="修复 Create 0.5.1.j 车门大范围开闭时的掉帧问题"
+logoFile="icon.png"
 
 [[dependencies.carriagefix]]
 modId="forge"
@@ -19,7 +20,7 @@ side="CLIENT"
 [[dependencies.carriagefix]]
 modId="minecraft"
 mandatory=true
-versionRange="[1.20.1,1.21)"
+versionRange="[1.20.1)"
 ordering="NONE"
 side="CLIENT"
 
