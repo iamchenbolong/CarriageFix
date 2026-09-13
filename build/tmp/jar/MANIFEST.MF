@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: carriagefix
+Specification-Vendor: example
+Specification-Version: 1
+Implementation-Title: CarriageFix
+Implementation-Version: 1.0.0
+Implementation-Vendor: example
+
